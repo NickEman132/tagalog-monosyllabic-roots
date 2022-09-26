@@ -1,1 +1,1 @@
-# tagalog-monosyllavic-roots
+# tagalog monosyllabic roots
