@@ -18,6 +18,8 @@ Other papers on Austronesian root theory include Blust (1988), Zorc (1990), and 
 
 |Gloss|PAn|PKD|Tag|Zhu|Gel
 |-----------|-----------|-----------|------------|-----------|------------|
-|flutter|baŋ|bɤŋ|bang|?|?|
-|2.SG|*(i-)kaSu; iSu|*isuː; amɤː|ikaw|mɯŋ2|mɯ31|
-|3.SG|*(si-)ia|?|siya|teː1; min2|mi35|
+|above|*baw|?|baw|?|?|
+|girl|*bay|?|bay|?|?|
+|spool|*beg|?|beg|?|?|
+|carry|*bit|?|bit|?|?|
+
