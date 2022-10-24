@@ -1,14 +1,16 @@
 # tagalog monosyllabic roots
 
-Legend:
+### Languages:
 
 `T` Tagalog
 
 `PAn` Proto-Austronesian 
 
-`T` Thai
-
 `PKD` Proto-Kra-Dai
+
+`Zh` Zhuang
+
+`Ge` Gedao
 
 The following include **monosyllabic Proto-Austronesian roots
 reconstructed** by John Wolff (1999) and E.M. Kempler Cohen (1999). I include evolved Tagalog monosyllabic roots.
